@@ -1,4 +1,4 @@
-echo "Welcome to Employee Wage Computation Program"
+Oecho "Welcome to Employee Wage Computation Program"
 
 isPresent=1
 randomcheck=$((RANDOM % 2))
